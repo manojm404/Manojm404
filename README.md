@@ -61,13 +61,13 @@ Reach out – let’s build something fun together.
 <!-- CONNECT -->
 <h2 align="center">🤝 Let’s Connect</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/manoj-yandapally">
+  <a href="https://linkedin.com/in/mano-js">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:manoj.yandapally@example.com">
+  <a href="mailto:manojsha9530@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/manojsha9530">
+  <a href="https://github.com/manojm404">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
